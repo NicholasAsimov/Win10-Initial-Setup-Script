@@ -119,7 +119,7 @@ ShowHiddenFiles                 # HideHiddenFiles
 # DisableSharingWizard          # EnableSharingWizard
 # HideSelectCheckboxes          # ShowSelectCheckboxes
 HideSyncNotifications           # ShowSyncNotifications
-HideRecentShortcuts             # ShowRecentShortcuts
+# HideRecentShortcuts           # ShowRecentShortcuts
 SetExplorerThisPC               # SetExplorerQuickAccess
 # HideQuickAccess               # ShowQuickAccess
 ShowThisPCOnDesktop             # HideThisPCFromDesktop
